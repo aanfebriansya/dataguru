@@ -1,1 +1,1 @@
-# dataguru
+git rm <dataguru>
